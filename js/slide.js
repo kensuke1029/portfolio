@@ -10,6 +10,6 @@ function slideSwitch() {
 	   });
  }
  $(function() {
-	 setInterval( "slideSwitch()", 2000 );
+	 setInterval( "slideSwitch()", 3000 );
 
 });
